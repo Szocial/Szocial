@@ -1,1 +1,4 @@
 ====== Nyilvános ======
+{{indexmenu>.#2}}
+
+{{ :wiki:szocial_logo.jpg?nolink&120 |A Szociál}}
